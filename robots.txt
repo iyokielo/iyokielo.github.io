@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyokielo.github.io/sitemap_index.iyokielo
